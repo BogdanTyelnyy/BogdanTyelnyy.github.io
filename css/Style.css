@@ -1,4 +1,4 @@
-﻿#lucky {
+#lucky {
     position: fixed;
     left: 45%;
     top: 45%;
@@ -26,7 +26,7 @@ img {
 }
 
 #search_body {
-    background: url(image/skala_osn.png) no-repeat fixed;
+    background: url(BogdanTyelnyy.github.io/image/skala_osn.png) no-repeat fixed;
     background-size: cover;
 }
 #img_body {
