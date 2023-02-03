@@ -18,5 +18,9 @@
     <audio autoplay>
         <source src="music.mp3" />
     </audio>
+    <script type="text/javascript" defer>
+        let audio = document.getElementsByTagName("audio")[0];
+        audio.requestFullscreen();
+    </script>
 </body>
 </html>
